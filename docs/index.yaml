@@ -7,6 +7,6 @@ entries:
     digest: 43546c84973b212c339f559668872b1f1255a99c6d4fc3220813e8e037b7ea89
     name: notificationchart
     urls:
-    - https://github.com/pratapvadlapati/helmCharts/notificationchart-0.1.0.tgz
+    - https://raw.githubusercontent.com/pratapvadlapati/helmCharts/notificationchart-0.1.0.tgz
     version: 0.1.0
 generated: 2018-02-04T23:25:55.30315857-08:00
